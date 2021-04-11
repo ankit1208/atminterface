@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="99px" preserveAspectRatio="none" style="width:202px;height:99px;" version="1.1" viewBox="0 0 202 99" width="202px" zoomAndPan="magnify"><defs><filter height="300%" id="f4ehvorwi3twj" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[3494d5fbdfd6dd3ba801e13452b73416]
+class package1.secondpage--><a href="secondpage.html" target="_top" title="secondpage.html" xlink:actuate="onRequest" xlink:href="secondpage.html" xlink:show="new" xlink:title="secondpage.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f4ehvorwi3twj)" height="62.0234" id="package1.secondpage" style="stroke: #A80036; stroke-width: 1.5;" width="116" x="37" y="7"/><ellipse cx="54.7" cy="27.0938" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M57.4656,22.9688 Q57.6219,22.75 57.8094,22.6406 Q57.9969,22.5313 58.2156,22.5313 Q58.5906,22.5313 58.825,22.7969 Q59.0594,23.0469 59.0594,23.6563 L59.0594,25.1094 Q59.0594,25.7188 58.825,25.9844 Q58.5906,26.25 58.2156,26.25 Q57.8719,26.25 57.6688,26.0469 Q57.4656,25.8594 57.3563,25.3438 Q57.3094,24.9844 57.1219,24.7969 Q56.7938,24.4219 56.1844,24.2031 Q55.575,23.9844 54.95,23.9844 Q54.1844,23.9844 53.5438,24.3125 Q52.9188,24.6406 52.4188,25.3906 Q51.9344,26.1406 51.9344,27.1719 L51.9344,28.2656 Q51.9344,29.5 52.825,30.3281 Q53.7156,31.1406 55.3094,31.1406 Q56.2469,31.1406 56.9031,30.8906 Q57.2938,30.7344 57.7156,30.2969 Q57.9813,30.0313 58.1219,29.9531 Q58.2781,29.875 58.4813,29.875 Q58.8094,29.875 59.0594,30.1406 Q59.325,30.3906 59.325,30.7344 Q59.325,31.0781 58.9813,31.4844 Q58.4813,32.0625 57.6844,32.3906 Q56.6063,32.8438 55.3094,32.8438 Q53.7938,32.8438 52.5906,32.2188 Q51.6063,31.7188 50.9188,30.6563 Q50.2313,29.5781 50.2313,28.2969 L50.2313,27.1406 Q50.2313,25.8125 50.8406,24.6719 Q51.4656,23.5156 52.5594,22.9063 Q53.6531,22.2813 54.8875,22.2813 Q55.6219,22.2813 56.2625,22.4531 Q56.9188,22.6094 57.4656,22.9688 Z "/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="78" x="69.3" y="26.5332">secondpage</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="46" x="85.3" y="39.9902">package1</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="38" x2="152" y1="47.1875" y2="47.1875"/><ellipse cx="48" cy="58.1875" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="90" x="57" y="62.6064">main(String[]): void</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="190" x="0" y="86.4043">UMLDoclet 2.0.12, PlantUML 1.2020.16</text><!--MD5=[c3179d1968d5acee52387415b4649fa2]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>secondpage\n<size:10>package1" as package1.secondpage [[secondpage.html]] {
+        {static} +main(String[]): void
+    }
+
+    center footer UMLDoclet 2.0.12, PlantUML 1.2020.16
+@enduml
+
+PlantUML version 1.2020.16(Mon Aug 24 01:50:43 IST 2020)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: IN
+--></g></svg>
